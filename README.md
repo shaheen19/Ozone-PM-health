@@ -1,4 +1,4 @@
-# Ozone-PM-health
+# Ozone and Partuclate matter and connection with health
 ## Goal
 The Project was designed to investigate the impact of ozone on the health of individuals.
 This project consist of three parts.
