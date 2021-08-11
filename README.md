@@ -7,6 +7,7 @@ This project consist of three parts.
 2. Develop machine learning algorithms to forecast ozone levels.
 3. Project how ozone will affect respiratory health in adults and children
 ## Conclusions 
-Due to varied topogrpahy and meterology, it is not possible to combine data for all counties. 
+A signficant correlation between ozone and respiratory health of children was found.
+## Future Studies
 Future project will include analysis for each county.
 Identify sources of pollutants in each county and develop algorithms to find major contributors to health.
