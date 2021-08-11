@@ -1,6 +1,7 @@
-## Ozone and Particulate matter and connection with health
+## Ozone and Particulate matter in California and connection with health
 ## Goal
-The Project was designed to investigate the impact of ozone on the health of individuals.
+The project was designed to investigate the impact of ozone and PM on the health of individuals.
+
 This project consist of three parts.
 1. developing statistical approaches to identify outliers and analomalies.
 2. Develop machine learning algorithms to forecast ozone levels.
